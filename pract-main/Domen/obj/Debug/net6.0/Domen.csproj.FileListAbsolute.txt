@@ -1,0 +1,4 @@
+C:\Users\Home\Desktop\pract-main\Domen\obj\Debug\net6.0\Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\pract-main\Domen\obj\Debug\net6.0\Domen.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\pract-main\Domen\obj\Debug\net6.0\Domen.AssemblyInfo.cs
+C:\Users\Home\Desktop\pract-main\Domen\obj\Debug\net6.0\Domen.csproj.CoreCompileInputs.cache
